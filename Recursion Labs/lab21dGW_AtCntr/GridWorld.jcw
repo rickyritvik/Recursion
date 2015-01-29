@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>GridWorld</label>
+	</settings>
+	<users>
+		<user>
+			<path>GridWorld.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>GridWorld.jcp</path>
+		</project>
+	</projects>
+</workspace>
